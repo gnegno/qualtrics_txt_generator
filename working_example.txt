@@ -1,0 +1,12 @@
+[[AdvancedFormat]]
+
+[[Block:1]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<a href="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_002">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_002.png"></a>
+
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different

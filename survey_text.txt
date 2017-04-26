@@ -1,0 +1,848 @@
+[[AdvancedFormat]]
+
+
+[[Block:1]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_001.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:2]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_002.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:3]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_003.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:4]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_004.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:5]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_005.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:6]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_006.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:7]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_007.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:8]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_008.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:9]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_009.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:10]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_010.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:11]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_011.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:12]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_012.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:13]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_013.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:14]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_014.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:15]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_015.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:16]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_016.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:17]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_017.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:18]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_018.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:19]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_019.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:20]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_020.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:21]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_021.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:22]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_022.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:23]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_023.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:24]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_024.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:25]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_025.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:26]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_026.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:27]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_027.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:28]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_028.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:29]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_029.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:30]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_030.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:31]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_031.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:32]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_032.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:33]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_033.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:34]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_034.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:35]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_035.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:36]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_036.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:37]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_037.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:38]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_038.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:39]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_039.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:40]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_040.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:41]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_041.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:42]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_042.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:43]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_043.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:44]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_044.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:45]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_045.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:46]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_046.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:47]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_047.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:48]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_048.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:49]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_049.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:50]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_050.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:51]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_051.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:52]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_052.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:53]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_053.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:54]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_054.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:55]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_055.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:56]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_056.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:57]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_057.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:58]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_058.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:59]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_059.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:60]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_060.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:61]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_061.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:62]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_062.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:63]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_063.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:64]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_064.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:65]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_065.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:66]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_066.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:67]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_067.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:68]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_068.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:69]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_069.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:70]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_070.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:71]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_071.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:72]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_072.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:73]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_073.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:74]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_074.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:75]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_075.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:76]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_076.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:77]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_077.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:78]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_078.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:79]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_079.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:80]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_080.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:81]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_081.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:82]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_082.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:83]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_083.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:84]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_084.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:85]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_085.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:86]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_086.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:87]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_087.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:88]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_088.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:89]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_089.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:90]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_090.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:91]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_091.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:92]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_092.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:93]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_093.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
+
+[[Block:94]]
+[[Question:MC:SingleAnswer:Horizontal]]
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_094.png">
+[[AdvancedChoices]]
+[[Choice:1]]
+Same
+[[Choice:2]]
+Different
