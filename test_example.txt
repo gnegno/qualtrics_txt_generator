@@ -1,11 +1,26 @@
 [[AdvancedFormat]]
 
-
 [[Block:1]]
 [[Question:MC:SingleAnswer:Horizontal]]
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_001.png">
+Do you see a face in this image? How difficult it is to see it? 
+
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/26_4_2017_1444/face_002.png">
+
 [[AdvancedChoices]]
 [[Choice:1]]
-Same
+Doesn't look like a face at all
+1
 [[Choice:2]]
-Different
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+Clearly a face
+7
+
