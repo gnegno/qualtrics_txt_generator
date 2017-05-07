@@ -6,11 +6,11 @@
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q1]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_001.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_001.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -29,17 +29,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q2]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_002.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_002.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -58,17 +59,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q3]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_003.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_003.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -87,17 +89,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q4]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_004.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_004.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -116,17 +119,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q5]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_005.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_005.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -145,17 +149,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q6]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_006.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_006.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -174,17 +179,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q7]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_007.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_007.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -203,17 +209,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q8]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_008.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_008.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -232,17 +239,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q9]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_009.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_009.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -261,17 +269,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q10]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_010.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_010.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -290,17 +299,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q11]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_011.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_011.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -319,17 +329,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q12]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_012.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_012.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -348,17 +359,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q13]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_013.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_013.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -377,17 +389,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q14]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_014.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_015.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -406,17 +419,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q15]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_015.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_016.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -435,17 +449,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q16]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_016.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_017.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -464,17 +479,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q17]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_017.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_018.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -493,17 +509,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q18]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_018.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_020.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -522,17 +539,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q19]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_019.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_021.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -551,17 +569,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q20]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_020.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_022.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -580,17 +599,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q21]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_021.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_024.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -609,17 +629,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q22]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_022.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_025.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -638,17 +659,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q23]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_023.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_026.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -667,17 +689,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q24]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_024.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_031.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -696,17 +719,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q25]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_025.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_032.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -725,17 +749,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q26]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_026.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_034.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -754,17 +779,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q27]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_027.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_035.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -783,17 +809,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q28]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_028.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_036.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -812,17 +839,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q29]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_029.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_037.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -841,17 +869,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q30]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_030.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_038.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -870,17 +899,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q31]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_031.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_039.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -899,17 +929,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q32]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_032.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_040.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -928,17 +959,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q33]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_033.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_041.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -957,17 +989,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q34]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_034.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_042.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -986,17 +1019,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q35]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_035.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_043.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1015,17 +1049,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q36]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_036.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_044.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1044,17 +1079,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q37]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_037.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_045.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1073,17 +1109,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q38]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_038.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_046.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1102,17 +1139,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q39]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_039.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_047.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1131,17 +1169,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q40]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_040.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_048.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1160,17 +1199,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q41]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_041.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_049.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1189,17 +1229,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q42]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_042.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_050.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1218,17 +1259,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q43]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_043.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_051.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1247,17 +1289,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q44]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_044.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_054.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1276,17 +1319,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q45]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_045.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_055.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1305,17 +1349,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q46]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_046.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_056.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1334,17 +1379,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q47]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_047.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_057.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1363,17 +1409,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q48]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_048.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_058.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1392,17 +1439,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q49]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_049.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_059.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1421,17 +1469,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q50]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_050.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_061.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1450,17 +1499,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q51]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_051.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_062.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1479,17 +1529,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q52]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_052.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_063.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1508,17 +1559,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q53]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_053.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_064.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1537,17 +1589,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q54]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_054.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_065.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1566,17 +1619,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q55]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_055.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_066.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1595,17 +1649,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q56]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_056.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_067.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1624,17 +1679,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q57]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_057.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_068.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1653,17 +1709,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q58]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_058.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_070.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1682,17 +1739,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q59]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_059.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_072.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1711,17 +1769,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q60]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_060.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_073.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1740,17 +1799,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q61]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_061.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_074.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1769,17 +1829,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q62]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_062.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_075.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1798,17 +1859,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q63]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_063.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_076.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1827,17 +1889,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q64]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_064.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_078.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1856,17 +1919,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q65]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_065.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_079.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1885,17 +1949,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q66]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_066.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_081.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1914,17 +1979,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q67]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_067.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_082.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1943,17 +2009,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q68]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_068.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_083.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -1972,17 +2039,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q69]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_069.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_084.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2001,17 +2069,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q70]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_070.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_085.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2030,17 +2099,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q71]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_071.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_086.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2059,17 +2129,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q72]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_072.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_088.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2088,17 +2159,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q73]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_073.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_089.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2117,17 +2189,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q74]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_074.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_090.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2146,17 +2219,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q75]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_075.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_091.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2175,17 +2249,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q76]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_076.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_092.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2204,17 +2279,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q77]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_077.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_093.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2233,17 +2309,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q78]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_078.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_095.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2262,17 +2339,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q79]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_079.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_096.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2291,17 +2369,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q80]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_080.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_097.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2320,17 +2399,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q81]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_081.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_099.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2349,17 +2429,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q82]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_082.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_100.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2378,17 +2459,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q83]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_083.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_101.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2407,17 +2489,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q84]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_084.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_102.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2436,17 +2519,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q85]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_085.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_103.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2465,17 +2549,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q86]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_086.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_104.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2494,17 +2579,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q87]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_087.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_105.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2523,17 +2609,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q88]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_088.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_107.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2552,17 +2639,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q89]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_089.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_108.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2581,17 +2669,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q90]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_090.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_109.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2610,17 +2699,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q91]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_091.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_111.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2639,17 +2729,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q92]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_092.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_112.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2668,17 +2759,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q93]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_093.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_113.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2697,17 +2789,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q94]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_094.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_114.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2726,17 +2819,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q95]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_095.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_115.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2755,17 +2849,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q96]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_096.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_116.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2784,17 +2879,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q97]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_097.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_117.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2813,17 +2909,18 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
 9
+
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID:Q98]]
 How much does this image look like a face?
-<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/good_configurations_set/face_098.png">
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_118.png">
 
 [[AdvancedChoices]]
 [[Choice:0]]
-Doesn't look like a face at all     
+Doesn't look like a face at all
 0
 [[Choice:1]]
 1
@@ -2842,5 +2939,4835 @@ Doesn't look like a face at all
 [[Choice:8]]
 8
 [[Choice:9]]
-Clearly a face     
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q99]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_119.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q100]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_120.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q101]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_121.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q102]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_122.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q103]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_123.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q104]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_124.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q105]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_125.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q106]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_126.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q107]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_127.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q108]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_128.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q109]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_129.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q110]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_130.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q111]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_131.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q112]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_132.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q113]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_133.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q114]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_134.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q115]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_135.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q116]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_136.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q117]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_137.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q118]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_138.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q119]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_139.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q120]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_140.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q121]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_141.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q122]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_142.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q123]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_143.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q124]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_144.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q125]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_145.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q126]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_146.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q127]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_147.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q128]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_148.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q129]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_150.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q130]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_151.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q131]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_152.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q132]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_153.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q133]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_154.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q134]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_155.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q135]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_156.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q136]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_157.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q137]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_158.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q138]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_159.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q139]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_160.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q140]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_161.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q141]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_162.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q142]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_163.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q143]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_164.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q144]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_165.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q145]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_166.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q146]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_167.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q147]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_168.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q148]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_169.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q149]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_170.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q150]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_171.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q151]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_172.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q152]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_173.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q153]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_174.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q154]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_175.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q155]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_176.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q156]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_177.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q157]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_178.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q158]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_179.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q159]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_180.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q160]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_181.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q161]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_182.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q162]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_183.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q163]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_184.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q164]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_185.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q165]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_186.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q166]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_187.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q167]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_188.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q168]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_189.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q169]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_190.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q170]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_191.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q171]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_192.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q172]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_193.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q173]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_194.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q174]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_195.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q175]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_196.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q176]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_197.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q177]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_198.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q178]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_199.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q179]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_200.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q180]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_201.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q181]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_202.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q182]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_203.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q183]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_204.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q184]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_205.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q185]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_206.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q186]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_207.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q187]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_208.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q188]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_209.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q189]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_210.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q190]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_211.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q191]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_212.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q192]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_213.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q193]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_214.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q194]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_215.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q195]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_216.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q196]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_217.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q197]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_218.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q198]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_219.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q199]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_220.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q200]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_221.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q201]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_222.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q202]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_223.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q203]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_224.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q204]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_225.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q205]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_226.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q206]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_227.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q207]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_228.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q208]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_229.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q209]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_230.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q210]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_231.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q211]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_232.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q212]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_233.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q213]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_234.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q214]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_235.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q215]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_236.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q216]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_237.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q217]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_238.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q218]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_239.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q219]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_240.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q220]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_241.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q221]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_242.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q222]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_243.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q223]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_244.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q224]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_245.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q225]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_246.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q226]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_247.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q227]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_248.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q228]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_249.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q229]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_250.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q230]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_251.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q231]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_252.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q232]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_253.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q233]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_254.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q234]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_255.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q235]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_256.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q236]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_257.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q237]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_258.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q238]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_259.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q239]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_260.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q240]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_261.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q241]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_262.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q242]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_263.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q243]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_264.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q244]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_265.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q245]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_266.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q246]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_267.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q247]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_268.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q248]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_269.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q249]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_270.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q250]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_271.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q251]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_272.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q252]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_273.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q253]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_274.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q254]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_275.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q255]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_276.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q256]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_277.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q257]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_278.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q258]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_279.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
+9
+
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID:Q259]]
+How much does this image look like a face?
+<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/bigger_set_for_behav/face_280.png">
+
+[[AdvancedChoices]]
+[[Choice:0]]
+Doesn't look like a face at all
+0
+[[Choice:1]]
+1
+[[Choice:2]]
+2
+[[Choice:3]]
+3
+[[Choice:4]]
+4
+[[Choice:5]]
+5
+[[Choice:6]]
+6
+[[Choice:7]]
+7
+[[Choice:8]]
+8
+[[Choice:9]]
+Clearly a face
 9

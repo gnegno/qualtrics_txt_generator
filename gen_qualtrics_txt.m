@@ -9,15 +9,23 @@ orig_dir = cd;
 
 cd(d)
 folder_contents = dir('*.png');
+folders_names = regexp(d,filesep,'split');
 
-txt = '[[AdvancedFormat]]\n\n[[Block:1]]\n';
+cd(orig_dir)
+fid = fopen('survey_text.txt', 'wt');
 
-for i = 1:length({folder_contents.name})
-    tmp_str = sprintf(      ...
+fprintf(fid, '[[AdvancedFormat]]\n\n[[Block:1]]\n');
+fclose(fid);
+
+cd(orig_dir)
+fid = fopen('survey_text.txt', 'a');
+
+for i = 1:length(folder_contents)
+    tmp_str = sprintf(...
         ['\n\n[[Question:MC:SingleAnswer:Horizontal]]\n' ...
         '[[ID:Q%i]]\n' ...
-        'How much does this image look like a face?\n' ...
-        '<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/%s/face_%03d.png">\n' ...
+       'How much does this image look like a face?\n' ...
+       '<img src="https://raw.githubusercontent.com/gnegno/images_for_qualtrics/master/test_face/%s/%s">\n' ...
         '\n[[AdvancedChoices]]\n'...
         '[[Choice:0]]\n'...
         'Doesn''t look like a face at all\n' ...
@@ -41,15 +49,12 @@ for i = 1:length({folder_contents.name})
         '[[Choice:9]]\n'...
         'Clearly a face\n'...
         '9\n' ...
-        ], i, d((end-length('good_configurations_set')+1):end), i); 
+        ], i, folders_names{end}, folder_contents(i).name); 
     
-    txt = strcat(txt,tmp_str);
+    fprintf(fid, tmp_str);
     
 end   
 
-cd(orig_dir)
-fid = fopen('survey_text.txt', 'wt');
-fprintf(fid, txt);
 fclose(fid);
 
 
